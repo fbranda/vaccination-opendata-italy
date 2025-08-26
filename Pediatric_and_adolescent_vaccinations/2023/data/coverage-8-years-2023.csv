@@ -1,0 +1,265 @@
+"Region_ID","Region_Name","Region_Lat","Region_Lon","Vaccine_Name","Vaccine_Abbreviation","Age_Group","Coverage_Percentage","Year_Value"
+1,"Piemonte",45.0732745,7.680687483,"Morbillo","MOR","8 years","90.17",2023
+1,"Piemonte",45.0732745,7.680687483,"Parotite","PAR","8 years","89.87",2023
+1,"Piemonte",45.0732745,7.680687483,"Rosolia","ROS","8 years","90.08",2023
+1,"Piemonte",45.0732745,7.680687483,"Varicella","VAR","8 years","11.66",2023
+1,"Piemonte",45.0732745,7.680687483,"Difterite","DIF","8 years","90.62",2023
+1,"Piemonte",45.0732745,7.680687483,"Tetano","TET","8 years","90.66",2023
+1,"Piemonte",45.0732745,7.680687483,"Pertosse","PER","8 years","90.56",2023
+1,"Piemonte",45.0732745,7.680687483,"Polio","POL","8 years","90.71",2023
+1,"Piemonte",45.0732745,7.680687483,"Hib","HIB","8 years","95.15",2023
+1,"Piemonte",45.0732745,7.680687483,"Epatite B","EP B","8 years","95.3",2023
+1,"Piemonte",45.0732745,7.680687483,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","3.8",2023
+1,"Piemonte",45.0732745,7.680687483,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","5.74",2023
+2,"Valle d'Aosta",45.73750286,7.320149366,"Morbillo","MOR","8 years","92.06",2023
+2,"Valle d'Aosta",45.73750286,7.320149366,"Parotite","PAR","8 years","91.34",2023
+2,"Valle d'Aosta",45.73750286,7.320149366,"Rosolia","ROS","8 years","92.06",2023
+2,"Valle d'Aosta",45.73750286,7.320149366,"Varicella","VAR","8 years","17.32",2023
+2,"Valle d'Aosta",45.73750286,7.320149366,"Difterite","DIF","8 years","91.75",2023
+2,"Valle d'Aosta",45.73750286,7.320149366,"Tetano","TET","8 years","91.96",2023
+2,"Valle d'Aosta",45.73750286,7.320149366,"Pertosse","PER","8 years","91.75",2023
+2,"Valle d'Aosta",45.73750286,7.320149366,"Polio","POL","8 years","91.86",2023
+2,"Valle d'Aosta",45.73750286,7.320149366,"Hib","HIB","8 years","93.71",2023
+2,"Valle d'Aosta",45.73750286,7.320149366,"Epatite B","EP B","8 years","94.74",2023
+2,"Valle d'Aosta",45.73750286,7.320149366,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","4.74",2023
+2,"Valle d'Aosta",45.73750286,7.320149366,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","11.24",2023
+3,"Lombardia",45.46679409,9.190347404,"Morbillo","MOR","8 years","93.63",2023
+3,"Lombardia",45.46679409,9.190347404,"Parotite","PAR","8 years","93.1",2023
+3,"Lombardia",45.46679409,9.190347404,"Rosolia","ROS","8 years","93.48",2023
+3,"Lombardia",45.46679409,9.190347404,"Varicella","VAR","8 years","27.84",2023
+3,"Lombardia",45.46679409,9.190347404,"Difterite","DIF","8 years","93.11",2023
+3,"Lombardia",45.46679409,9.190347404,"Tetano","TET","8 years","93.19",2023
+3,"Lombardia",45.46679409,9.190347404,"Pertosse","PER","8 years","93.06",2023
+3,"Lombardia",45.46679409,9.190347404,"Polio","POL","8 years","93.21",2023
+3,"Lombardia",45.46679409,9.190347404,"Hib","HIB","8 years","95",2023
+3,"Lombardia",45.46679409,9.190347404,"Epatite B","EP B","8 years","96.53",2023
+3,"Lombardia",45.46679409,9.190347404,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","60.15",2023
+3,"Lombardia",45.46679409,9.190347404,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","1.63",2023
+21,"Bolzano",46.49933453,11.35662422,"Morbillo","MOR","8 years","81.78",2023
+21,"Bolzano",46.49933453,11.35662422,"Parotite","PAR","8 years","81.41",2023
+21,"Bolzano",46.49933453,11.35662422,"Rosolia","ROS","8 years","81.57",2023
+21,"Bolzano",46.49933453,11.35662422,"Varicella","VAR","8 years","42.83",2023
+21,"Bolzano",46.49933453,11.35662422,"Difterite","DIF","8 years","81.39",2023
+21,"Bolzano",46.49933453,11.35662422,"Tetano","TET","8 years","81.46",2023
+21,"Bolzano",46.49933453,11.35662422,"Pertosse","PER","8 years","81.25",2023
+21,"Bolzano",46.49933453,11.35662422,"Polio","POL","8 years","81.23",2023
+21,"Bolzano",46.49933453,11.35662422,"Hib","HIB","8 years","91.33",2023
+21,"Bolzano",46.49933453,11.35662422,"Epatite B","EP B","8 years","92.3",2023
+21,"Bolzano",46.49933453,11.35662422,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","17.48",2023
+21,"Bolzano",46.49933453,11.35662422,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","55.18",2023
+22,"Trento",46.06893511,11.12123097,"Morbillo","MOR","8 years","93.79",2023
+22,"Trento",46.06893511,11.12123097,"Parotite","PAR","8 years","93.46",2023
+22,"Trento",46.06893511,11.12123097,"Rosolia","ROS","8 years","93.65",2023
+22,"Trento",46.06893511,11.12123097,"Varicella","VAR","8 years","69.03",2023
+22,"Trento",46.06893511,11.12123097,"Difterite","DIF","8 years","93.67",2023
+22,"Trento",46.06893511,11.12123097,"Tetano","TET","8 years","93.93",2023
+22,"Trento",46.06893511,11.12123097,"Pertosse","PER","8 years","93.52",2023
+22,"Trento",46.06893511,11.12123097,"Polio","POL","8 years","93.75",2023
+22,"Trento",46.06893511,11.12123097,"Hib","HIB","8 years","95.02",2023
+22,"Trento",46.06893511,11.12123097,"Epatite B","EP B","8 years","96.65",2023
+22,"Trento",46.06893511,11.12123097,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","69.03",2023
+22,"Trento",46.06893511,11.12123097,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","0",2023
+5,"Veneto",45.43490485,12.33845213,"Morbillo","MOR","8 years","89.94",2023
+5,"Veneto",45.43490485,12.33845213,"Parotite","PAR","8 years","89.45",2023
+5,"Veneto",45.43490485,12.33845213,"Rosolia","ROS","8 years","89.82",2023
+5,"Veneto",45.43490485,12.33845213,"Varicella","VAR","8 years","85.5",2023
+5,"Veneto",45.43490485,12.33845213,"Difterite","DIF","8 years","89.47",2023
+5,"Veneto",45.43490485,12.33845213,"Tetano","TET","8 years","89.73",2023
+5,"Veneto",45.43490485,12.33845213,"Pertosse","PER","8 years","89.39",2023
+5,"Veneto",45.43490485,12.33845213,"Polio","POL","8 years","89.53",2023
+5,"Veneto",45.43490485,12.33845213,"Hib","HIB","8 years","93.34",2023
+5,"Veneto",45.43490485,12.33845213,"Epatite B","EP B","8 years","95.41",2023
+5,"Veneto",45.43490485,12.33845213,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","87.88",2023
+5,"Veneto",45.43490485,12.33845213,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","43.07",2023
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Morbillo","MOR","8 years","92.95",2023
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Parotite","PAR","8 years","92.72",2023
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Rosolia","ROS","8 years","92.74",2023
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Varicella","VAR","8 years","85.01",2023
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Difterite","DIF","8 years","93.46",2023
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Tetano","TET","8 years","93.66",2023
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Pertosse","PER","8 years","93.41",2023
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Polio","POL","8 years","93.43",2023
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Hib","HIB","8 years","96.63",2023
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Epatite B","EP B","8 years","98.26",2023
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","81.17",2023
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","83.37",2023
+7,"Liguria",44.41149315,8.9326992,"Morbillo","MOR","8 years","86.15",2023
+7,"Liguria",44.41149315,8.9326992,"Parotite","PAR","8 years","85.77",2023
+7,"Liguria",44.41149315,8.9326992,"Rosolia","ROS","8 years","86.08",2023
+7,"Liguria",44.41149315,8.9326992,"Varicella","VAR","8 years","68.38",2023
+7,"Liguria",44.41149315,8.9326992,"Difterite","DIF","8 years","87.86",2023
+7,"Liguria",44.41149315,8.9326992,"Tetano","TET","8 years","87.87",2023
+7,"Liguria",44.41149315,8.9326992,"Pertosse","PER","8 years","87.82",2023
+7,"Liguria",44.41149315,8.9326992,"Polio","POL","8 years","87.72",2023
+7,"Liguria",44.41149315,8.9326992,"Hib","HIB","8 years","81.09",2023
+7,"Liguria",44.41149315,8.9326992,"Epatite B","EP B","8 years","82.86",2023
+7,"Liguria",44.41149315,8.9326992,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","37.21",2023
+7,"Liguria",44.41149315,8.9326992,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","49.04",2023
+8,"Emilia-Romagna",44.49436681,11.3417208,"Morbillo","MOR","8 years","92.35",2023
+8,"Emilia-Romagna",44.49436681,11.3417208,"Parotite","PAR","8 years","91.92",2023
+8,"Emilia-Romagna",44.49436681,11.3417208,"Rosolia","ROS","8 years","92.14",2023
+8,"Emilia-Romagna",44.49436681,11.3417208,"Varicella","VAR","8 years","53.49",2023
+8,"Emilia-Romagna",44.49436681,11.3417208,"Difterite","DIF","8 years","92.3",2023
+8,"Emilia-Romagna",44.49436681,11.3417208,"Tetano","TET","8 years","92.46",2023
+8,"Emilia-Romagna",44.49436681,11.3417208,"Pertosse","PER","8 years","92.25",2023
+8,"Emilia-Romagna",44.49436681,11.3417208,"Polio","POL","8 years","92.51",2023
+8,"Emilia-Romagna",44.49436681,11.3417208,"Hib","HIB","8 years","94.81",2023
+8,"Emilia-Romagna",44.49436681,11.3417208,"Epatite B","EP B","8 years","96.73",2023
+8,"Emilia-Romagna",44.49436681,11.3417208,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","15.93",2023
+8,"Emilia-Romagna",44.49436681,11.3417208,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","37.56",2023
+9,"Toscana",43.76923077,11.25588885,"Morbillo","MOR","8 years","90.93",2023
+9,"Toscana",43.76923077,11.25588885,"Parotite","PAR","8 years","90.6",2023
+9,"Toscana",43.76923077,11.25588885,"Rosolia","ROS","8 years","90.87",2023
+9,"Toscana",43.76923077,11.25588885,"Varicella","VAR","8 years","86.12",2023
+9,"Toscana",43.76923077,11.25588885,"Difterite","DIF","8 years","91.07",2023
+9,"Toscana",43.76923077,11.25588885,"Tetano","TET","8 years","91.17",2023
+9,"Toscana",43.76923077,11.25588885,"Pertosse","PER","8 years","91",2023
+9,"Toscana",43.76923077,11.25588885,"Polio","POL","8 years","91.01",2023
+9,"Toscana",43.76923077,11.25588885,"Hib","HIB","8 years","95.72",2023
+9,"Toscana",43.76923077,11.25588885,"Epatite B","EP B","8 years","95.42",2023
+9,"Toscana",43.76923077,11.25588885,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","0.96",2023
+9,"Toscana",43.76923077,11.25588885,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","1.55",2023
+10,"Um bria",43.10675841,12.38824698,"Morbillo","MOR","8 years","95.3",2023
+10,"Um bria",43.10675841,12.38824698,"Parotite","PAR","8 years","94.97",2023
+10,"Um bria",43.10675841,12.38824698,"Rosolia","ROS","8 years","95.16",2023
+10,"Um bria",43.10675841,12.38824698,"Varicella","VAR","8 years","46.49",2023
+10,"Um bria",43.10675841,12.38824698,"Difterite","DIF","8 years","95.25",2023
+10,"Um bria",43.10675841,12.38824698,"Tetano","TET","8 years","95.39",2023
+10,"Um bria",43.10675841,12.38824698,"Pertosse","PER","8 years","95.27",2023
+10,"Um bria",43.10675841,12.38824698,"Polio","POL","8 years","95.35",2023
+10,"Um bria",43.10675841,12.38824698,"Hib","HIB","8 years","97.93",2023
+10,"Um bria",43.10675841,12.38824698,"Epatite B","EP B","8 years","98.37",2023
+10,"Um bria",43.10675841,12.38824698,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","40.71",2023
+10,"Um bria",43.10675841,12.38824698,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","46",2023
+11,"Marche",43.61675973,13.5188753,"Morbillo","MOR","8 years","86.13",2023
+11,"Marche",43.61675973,13.5188753,"Parotite","PAR","8 years","85.73",2023
+11,"Marche",43.61675973,13.5188753,"Rosolia","ROS","8 years","85.93",2023
+11,"Marche",43.61675973,13.5188753,"Varicella","VAR","8 years","67.04",2023
+11,"Marche",43.61675973,13.5188753,"Difterite","DIF","8 years","86.66",2023
+11,"Marche",43.61675973,13.5188753,"Tetano","TET","8 years","86.71",2023
+11,"Marche",43.61675973,13.5188753,"Pertosse","PER","8 years","86.64",2023
+11,"Marche",43.61675973,13.5188753,"Polio","POL","8 years","86.73",2023
+11,"Marche",43.61675973,13.5188753,"Hib","HIB","8 years","93.21",2023
+11,"Marche",43.61675973,13.5188753,"Epatite B","EP B","8 years","93.55",2023
+11,"Marche",43.61675973,13.5188753,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","39.48",2023
+11,"Marche",43.61675973,13.5188753,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","64.24",2023
+12,"Lazio",41.89277044,12.48366722,"Morbillo","MOR","8 years","84.73",2023
+12,"Lazio",41.89277044,12.48366722,"Parotite","PAR","8 years","84.39",2023
+12,"Lazio",41.89277044,12.48366722,"Rosolia","ROS","8 years","84.59",2023
+12,"Lazio",41.89277044,12.48366722,"Varicella","VAR","8 years","43.89",2023
+12,"Lazio",41.89277044,12.48366722,"Difterite","DIF","8 years","84.34",2023
+12,"Lazio",41.89277044,12.48366722,"Tetano","TET","8 years","84.37",2023
+12,"Lazio",41.89277044,12.48366722,"Pertosse","PER","8 years","84.31",2023
+12,"Lazio",41.89277044,12.48366722,"Polio","POL","8 years","84.61",2023
+12,"Lazio",41.89277044,12.48366722,"Hib","HIB","8 years","95.51",2023
+12,"Lazio",41.89277044,12.48366722,"Epatite B","EP B","8 years","95.39",2023
+12,"Lazio",41.89277044,12.48366722,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","40.66",2023
+12,"Lazio",41.89277044,12.48366722,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","4.39",2023
+13,"Abruzzo",42.35122196,13.39843823,"Morbillo","MOR","8 years","85.73",2023
+13,"Abruzzo",42.35122196,13.39843823,"Parotite","PAR","8 years","82.64",2023
+13,"Abruzzo",42.35122196,13.39843823,"Rosolia","ROS","8 years","85.64",2023
+13,"Abruzzo",42.35122196,13.39843823,"Varicella","VAR","8 years","53.84",2023
+13,"Abruzzo",42.35122196,13.39843823,"Difterite","DIF","8 years","86.66",2023
+13,"Abruzzo",42.35122196,13.39843823,"Tetano","TET","8 years","86.67",2023
+13,"Abruzzo",42.35122196,13.39843823,"Pertosse","PER","8 years","86.65",2023
+13,"Abruzzo",42.35122196,13.39843823,"Polio","POL","8 years","86.64",2023
+13,"Abruzzo",42.35122196,13.39843823,"Hib","HIB","8 years","96.98",2023
+13,"Abruzzo",42.35122196,13.39843823,"Epatite B","EP B","8 years","97.05",2023
+13,"Abruzzo",42.35122196,13.39843823,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","45.98",2023
+13,"Abruzzo",42.35122196,13.39843823,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","10.98",2023
+14,"Molise",41.55774754,14.65916051,"Morbillo","MOR","8 years","88.17",2023
+14,"Molise",41.55774754,14.65916051,"Parotite","PAR","8 years","88.17",2023
+14,"Molise",41.55774754,14.65916051,"Rosolia","ROS","8 years","88.17",2023
+14,"Molise",41.55774754,14.65916051,"Varicella","VAR","8 years","79.11",2023
+14,"Molise",41.55774754,14.65916051,"Difterite","DIF","8 years","89.58",2023
+14,"Molise",41.55774754,14.65916051,"Tetano","TET","8 years","89.58",2023
+14,"Molise",41.55774754,14.65916051,"Pertosse","PER","8 years","89.58",2023
+14,"Molise",41.55774754,14.65916051,"Polio","POL","8 years","85.77",2023
+14,"Molise",41.55774754,14.65916051,"Hib","HIB","8 years","97.79",2023
+14,"Molise",41.55774754,14.65916051,"Epatite B","EP B","8 years","97.32",2023
+14,"Molise",41.55774754,14.65916051,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","43.43",2023
+14,"Molise",41.55774754,14.65916051,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","41.22",2023
+15,"Campania",40.83956555,14.25084984,"Morbillo","MOR","8 years","76.7",2023
+15,"Campania",40.83956555,14.25084984,"Parotite","PAR","8 years","76.63",2023
+15,"Campania",40.83956555,14.25084984,"Rosolia","ROS","8 years","76.67",2023
+15,"Campania",40.83956555,14.25084984,"Varicella","VAR","8 years","56.07",2023
+15,"Campania",40.83956555,14.25084984,"Difterite","DIF","8 years","79.95",2023
+15,"Campania",40.83956555,14.25084984,"Tetano","TET","8 years","79.95",2023
+15,"Campania",40.83956555,14.25084984,"Pertosse","PER","8 years","79.94",2023
+15,"Campania",40.83956555,14.25084984,"Polio","POL","8 years","79.94",2023
+15,"Campania",40.83956555,14.25084984,"Hib","HIB","8 years","95.86",2023
+15,"Campania",40.83956555,14.25084984,"Epatite B","EP B","8 years","96.09",2023
+15,"Campania",40.83956555,14.25084984,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","72.48",2023
+15,"Campania",40.83956555,14.25084984,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","55.87",2023
+16,"Puglia",41.12559576,16.86736689,"Morbillo","MOR","8 years","74.19",2023
+16,"Puglia",41.12559576,16.86736689,"Parotite","PAR","8 years","74.15",2023
+16,"Puglia",41.12559576,16.86736689,"Rosolia","ROS","8 years","74.17",2023
+16,"Puglia",41.12559576,16.86736689,"Varicella","VAR","8 years","71.93",2023
+16,"Puglia",41.12559576,16.86736689,"Difterite","DIF","8 years","86.58",2023
+16,"Puglia",41.12559576,16.86736689,"Tetano","TET","8 years","86.59",2023
+16,"Puglia",41.12559576,16.86736689,"Pertosse","PER","8 years","86.59",2023
+16,"Puglia",41.12559576,16.86736689,"Polio","POL","8 years","85.95",2023
+16,"Puglia",41.12559576,16.86736689,"Hib","HIB","8 years","94.98",2023
+16,"Puglia",41.12559576,16.86736689,"Epatite B","EP B","8 years","95.67",2023
+16,"Puglia",41.12559576,16.86736689,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","125.37",2023
+16,"Puglia",41.12559576,16.86736689,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","23.02",2023
+17,"Basilicata",40.63947052,15.80514834,"Morbillo","MOR","8 years","87.38",2023
+17,"Basilicata",40.63947052,15.80514834,"Parotite","PAR","8 years","87.38",2023
+17,"Basilicata",40.63947052,15.80514834,"Rosolia","ROS","8 years","87.38",2023
+17,"Basilicata",40.63947052,15.80514834,"Varicella","VAR","8 years","84.26",2023
+17,"Basilicata",40.63947052,15.80514834,"Difterite","DIF","8 years","89.02",2023
+17,"Basilicata",40.63947052,15.80514834,"Tetano","TET","8 years","89.02",2023
+17,"Basilicata",40.63947052,15.80514834,"Pertosse","PER","8 years","89.02",2023
+17,"Basilicata",40.63947052,15.80514834,"Polio","POL","8 years","88.97",2023
+17,"Basilicata",40.63947052,15.80514834,"Hib","HIB","8 years","95.39",2023
+17,"Basilicata",40.63947052,15.80514834,"Epatite B","EP B","8 years","95.69",2023
+17,"Basilicata",40.63947052,15.80514834,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","81.9",2023
+17,"Basilicata",40.63947052,15.80514834,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","51.79",2023
+18,"Calabria",38.90597598,16.59440194,"Morbillo","MOR","8 years","83.74",2023
+18,"Calabria",38.90597598,16.59440194,"Parotite","PAR","8 years","83.66",2023
+18,"Calabria",38.90597598,16.59440194,"Rosolia","ROS","8 years","83.73",2023
+18,"Calabria",38.90597598,16.59440194,"Varicella","VAR","8 years","80.97",2023
+18,"Calabria",38.90597598,16.59440194,"Difterite","DIF","8 years","75.9",2023
+18,"Calabria",38.90597598,16.59440194,"Tetano","TET","8 years","75.9",2023
+18,"Calabria",38.90597598,16.59440194,"Pertosse","PER","8 years","75.9",2023
+18,"Calabria",38.90597598,16.59440194,"Polio","POL","8 years","75.88",2023
+18,"Calabria",38.90597598,16.59440194,"Hib","HIB","8 years","71.54",2023
+18,"Calabria",38.90597598,16.59440194,"Epatite B","EP B","8 years","71.88",2023
+18,"Calabria",38.90597598,16.59440194,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","74.4",2023
+18,"Calabria",38.90597598,16.59440194,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","70.87",2023
+19,"Sicilia",38.11569725,13.3623566999999,"Morbillo","MOR","8 years","76.83",2023
+19,"Sicilia",38.11569725,13.3623566999999,"Parotite","PAR","8 years","76.65",2023
+19,"Sicilia",38.11569725,13.3623566999999,"Rosolia","ROS","8 years","76.75",2023
+19,"Sicilia",38.11569725,13.3623566999999,"Varicella","VAR","8 years","74.63",2023
+19,"Sicilia",38.11569725,13.3623566999999,"Difterite","DIF","8 years","78.1",2023
+19,"Sicilia",38.11569725,13.3623566999999,"Tetano","TET","8 years","78.12",2023
+19,"Sicilia",38.11569725,13.3623566999999,"Pertosse","PER","8 years","78.09",2023
+19,"Sicilia",38.11569725,13.3623566999999,"Polio","POL","8 years","78.07",2023
+19,"Sicilia",38.11569725,13.3623566999999,"Hib","HIB","8 years","47.42",2023
+19,"Sicilia",38.11569725,13.3623566999999,"Epatite B","EP B","8 years","48.01",2023
+19,"Sicilia",38.11569725,13.3623566999999,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","51.84",2023
+19,"Sicilia",38.11569725,13.3623566999999,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","45.98",2023
+20,"Sardegna",39.21531192,9.110616306,"Morbillo","MOR","8 years","87.75",2023
+20,"Sardegna",39.21531192,9.110616306,"Parotite","PAR","8 years","87.67",2023
+20,"Sardegna",39.21531192,9.110616306,"Rosolia","ROS","8 years","87.71",2023
+20,"Sardegna",39.21531192,9.110616306,"Varicella","VAR","8 years","81.46",2023
+20,"Sardegna",39.21531192,9.110616306,"Difterite","DIF","8 years","87.47",2023
+20,"Sardegna",39.21531192,9.110616306,"Tetano","TET","8 years","87.5",2023
+20,"Sardegna",39.21531192,9.110616306,"Pertosse","PER","8 years","87.43",2023
+20,"Sardegna",39.21531192,9.110616306,"Polio","POL","8 years","87.5",2023
+20,"Sardegna",39.21531192,9.110616306,"Hib","HIB","8 years","95.44",2023
+20,"Sardegna",39.21531192,9.110616306,"Epatite B","EP B","8 years","95.72",2023
+20,"Sardegna",39.21531192,9.110616306,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","79.92",2023
+20,"Sardegna",39.21531192,9.110616306,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","54.68",2023
+NA,"Italia",41.1698638,7.4272648,"Morbillo","MOR","8 years","86.34",2023
+NA,"Italia",41.1698638,7.4272648,"Parotite","PAR","8 years","85.97",2023
+NA,"Italia",41.1698638,7.4272648,"Rosolia","ROS","8 years","86.24",2023
+NA,"Italia",41.1698638,7.4272648,"Varicella","VAR","8 years","55.76",2023
+NA,"Italia",41.1698638,7.4272648,"Difterite","DIF","8 years","87.32",2023
+NA,"Italia",41.1698638,7.4272648,"Tetano","TET","8 years","87.4",2023
+NA,"Italia",41.1698638,7.4272648,"Pertosse","PER","8 years","87.29",2023
+NA,"Italia",41.1698638,7.4272648,"Polio","POL","8 years","87.33",2023
+NA,"Italia",41.1698638,7.4272648,"Hib","HIB","8 years","89.95",2023
+NA,"Italia",41.1698638,7.4272648,"Epatite B","EP B","8 years","90.76",2023
+NA,"Italia",41.1698638,7.4272648,"Morbillo, Parotite, Rosolia, Varicella","MPRV_first_dose","8 years","53.82",2023
+NA,"Italia",41.1698638,7.4272648,"Morbillo, Parotite, Rosolia, Varicella","MPRV_second_dose","8 years","28.27",2023
