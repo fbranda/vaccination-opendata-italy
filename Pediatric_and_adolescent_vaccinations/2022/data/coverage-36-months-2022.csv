@@ -1,0 +1,353 @@
+"Region_ID","Region_Name","Region_Lat","Region_Lon","Vaccine_Name","Vaccine_Abbreviation","Age_Group","Coverage_Percentage","Year_Value"
+1,"Piemonte",45.0732745,7.680687483,"Polio","POL","36 months","95.4",2022
+1,"Piemonte",45.0732745,7.680687483,"Difterite","DIF","36 months","95.42",2022
+1,"Piemonte",45.0732745,7.680687483,"Tetano","TET","36 months","95.42",2022
+1,"Piemonte",45.0732745,7.680687483,"Pertosse","PER","36 months","95.41",2022
+1,"Piemonte",45.0732745,7.680687483,"Epatite B","EP B","36 months","95.16",2022
+1,"Piemonte",45.0732745,7.680687483,"Hib","HIB","36 months","95.15",2022
+1,"Piemonte",45.0732745,7.680687483,"Morbillo","MOR","36 months","95.62",2022
+1,"Piemonte",45.0732745,7.680687483,"Parotite","PAR","36 months","95.54",2022
+1,"Piemonte",45.0732745,7.680687483,"Rosolia","ROS","36 months","95.37",2022
+1,"Piemonte",45.0732745,7.680687483,"Varicella","VAR","36 months","94.29",2022
+1,"Piemonte",45.0732745,7.680687483,"Meningococco C coniugato","Men C","36 months","90.34",2022
+1,"Piemonte",45.0732745,7.680687483,"Pneumococco coniugato","PNC","36 months","91.75",2022
+1,"Piemonte",45.0732745,7.680687483,"Epatite A","EP A","36 months","0.7",2022
+1,"Piemonte",45.0732745,7.680687483,"Rotavirus","ROTA","36 months",NA,2022
+1,"Piemonte",45.0732745,7.680687483,"Meningococco B","Men B","36 months","87.57",2022
+1,"Piemonte",45.0732745,7.680687483,"Meningococco ACYW coniugato","Men ACYW","36 months","1.53",2022
+2,"Valle d'Aosta",45.73750286,7.320149366,"Polio","POL","36 months","93.92",2022
+2,"Valle d'Aosta",45.73750286,7.320149366,"Difterite","DIF","36 months","93.92",2022
+2,"Valle d'Aosta",45.73750286,7.320149366,"Tetano","TET","36 months","94.04",2022
+2,"Valle d'Aosta",45.73750286,7.320149366,"Pertosse","PER","36 months","93.92",2022
+2,"Valle d'Aosta",45.73750286,7.320149366,"Epatite B","EP B","36 months","93.8",2022
+2,"Valle d'Aosta",45.73750286,7.320149366,"Hib","HIB","36 months","93.8",2022
+2,"Valle d'Aosta",45.73750286,7.320149366,"Morbillo","MOR","36 months","93.67",2022
+2,"Valle d'Aosta",45.73750286,7.320149366,"Parotite","PAR","36 months","93.67",2022
+2,"Valle d'Aosta",45.73750286,7.320149366,"Rosolia","ROS","36 months","93.67",2022
+2,"Valle d'Aosta",45.73750286,7.320149366,"Varicella","VAR","36 months","90.57",2022
+2,"Valle d'Aosta",45.73750286,7.320149366,"Meningococco C coniugato","Men C","36 months","89.08",2022
+2,"Valle d'Aosta",45.73750286,7.320149366,"Pneumococco coniugato","PNC","36 months","89.21",2022
+2,"Valle d'Aosta",45.73750286,7.320149366,"Epatite A","EP A","36 months","0.37",2022
+2,"Valle d'Aosta",45.73750286,7.320149366,"Rotavirus","ROTA","36 months",NA,2022
+2,"Valle d'Aosta",45.73750286,7.320149366,"Meningococco B","Men B","36 months","79.78",2022
+2,"Valle d'Aosta",45.73750286,7.320149366,"Meningococco ACYW coniugato","Men ACYW","36 months","0.5",2022
+3,"Lombardia",45.46679409,9.190347404,"Polio","POL","36 months","96.49",2022
+3,"Lombardia",45.46679409,9.190347404,"Difterite","DIF","36 months","96.49",2022
+3,"Lombardia",45.46679409,9.190347404,"Tetano","TET","36 months","96.49",2022
+3,"Lombardia",45.46679409,9.190347404,"Pertosse","PER","36 months","96.48",2022
+3,"Lombardia",45.46679409,9.190347404,"Epatite B","EP B","36 months","96.44",2022
+3,"Lombardia",45.46679409,9.190347404,"Hib","HIB","36 months","96.3",2022
+3,"Lombardia",45.46679409,9.190347404,"Morbillo","MOR","36 months","96.4",2022
+3,"Lombardia",45.46679409,9.190347404,"Parotite","PAR","36 months","96.35",2022
+3,"Lombardia",45.46679409,9.190347404,"Rosolia","ROS","36 months","96.39",2022
+3,"Lombardia",45.46679409,9.190347404,"Varicella","VAR","36 months","95.19",2022
+3,"Lombardia",45.46679409,9.190347404,"Meningococco C coniugato","Men C","36 months","94.13",2022
+3,"Lombardia",45.46679409,9.190347404,"Pneumococco coniugato","PNC","36 months","94.33",2022
+3,"Lombardia",45.46679409,9.190347404,"Epatite A","EP A","36 months","2.63",2022
+3,"Lombardia",45.46679409,9.190347404,"Rotavirus","ROTA","36 months",NA,2022
+3,"Lombardia",45.46679409,9.190347404,"Meningococco B","Men B","36 months","92.84",2022
+3,"Lombardia",45.46679409,9.190347404,"Meningococco ACYW coniugato","Men ACYW","36 months","1.34",2022
+21,"Bolzano",46.49933453,11.35662422,"Polio","POL","36 months","84.42",2022
+21,"Bolzano",46.49933453,11.35662422,"Difterite","DIF","36 months","84.36",2022
+21,"Bolzano",46.49933453,11.35662422,"Tetano","TET","36 months","84.38",2022
+21,"Bolzano",46.49933453,11.35662422,"Pertosse","PER","36 months","84.36",2022
+21,"Bolzano",46.49933453,11.35662422,"Epatite B","EP B","36 months","84.61",2022
+21,"Bolzano",46.49933453,11.35662422,"Hib","HIB","36 months","84.38",2022
+21,"Bolzano",46.49933453,11.35662422,"Morbillo","MOR","36 months","84.79",2022
+21,"Bolzano",46.49933453,11.35662422,"Parotite","PAR","36 months","85.13",2022
+21,"Bolzano",46.49933453,11.35662422,"Rosolia","ROS","36 months","85.04",2022
+21,"Bolzano",46.49933453,11.35662422,"Varicella","VAR","36 months","85.11",2022
+21,"Bolzano",46.49933453,11.35662422,"Meningococco C coniugato","Men C","36 months","70.38",2022
+21,"Bolzano",46.49933453,11.35662422,"Pneumococco coniugato","PNC","36 months","77.34",2022
+21,"Bolzano",46.49933453,11.35662422,"Epatite A","EP A","36 months","0.02",2022
+21,"Bolzano",46.49933453,11.35662422,"Rotavirus","ROTA","36 months",NA,2022
+21,"Bolzano",46.49933453,11.35662422,"Meningococco B","Men B","36 months","50.23",2022
+21,"Bolzano",46.49933453,11.35662422,"Meningococco ACYW coniugato","Men ACYW","36 months","6.19",2022
+22,"Trento",46.06893511,11.12123097,"Polio","POL","36 months","96.15",2022
+22,"Trento",46.06893511,11.12123097,"Difterite","DIF","36 months","96.2",2022
+22,"Trento",46.06893511,11.12123097,"Tetano","TET","36 months","96.2",2022
+22,"Trento",46.06893511,11.12123097,"Pertosse","PER","36 months","96.18",2022
+22,"Trento",46.06893511,11.12123097,"Epatite B","EP B","36 months","96.08",2022
+22,"Trento",46.06893511,11.12123097,"Hib","HIB","36 months","96.06",2022
+22,"Trento",46.06893511,11.12123097,"Morbillo","MOR","36 months","96.2",2022
+22,"Trento",46.06893511,11.12123097,"Parotite","PAR","36 months","96.15",2022
+22,"Trento",46.06893511,11.12123097,"Rosolia","ROS","36 months","96.2",2022
+22,"Trento",46.06893511,11.12123097,"Varicella","VAR","36 months","95.24",2022
+22,"Trento",46.06893511,11.12123097,"Meningococco C coniugato","Men C","36 months","89.89",2022
+22,"Trento",46.06893511,11.12123097,"Pneumococco coniugato","PNC","36 months","92.14",2022
+22,"Trento",46.06893511,11.12123097,"Epatite A","EP A","36 months","1.55",2022
+22,"Trento",46.06893511,11.12123097,"Rotavirus","ROTA","36 months",NA,2022
+22,"Trento",46.06893511,11.12123097,"Meningococco B","Men B","36 months","82.34",2022
+22,"Trento",46.06893511,11.12123097,"Meningococco ACYW coniugato","Men ACYW","36 months","88.81",2022
+5,"Veneto",45.43490485,12.33845213,"Polio","POL","36 months","95.32",2022
+5,"Veneto",45.43490485,12.33845213,"Difterite","DIF","36 months","95.33",2022
+5,"Veneto",45.43490485,12.33845213,"Tetano","TET","36 months","95.35",2022
+5,"Veneto",45.43490485,12.33845213,"Pertosse","PER","36 months","95.32",2022
+5,"Veneto",45.43490485,12.33845213,"Epatite B","EP B","36 months","95.22",2022
+5,"Veneto",45.43490485,12.33845213,"Hib","HIB","36 months","95.02",2022
+5,"Veneto",45.43490485,12.33845213,"Morbillo","MOR","36 months","95.01",2022
+5,"Veneto",45.43490485,12.33845213,"Parotite","PAR","36 months","94.86",2022
+5,"Veneto",45.43490485,12.33845213,"Rosolia","ROS","36 months","95",2022
+5,"Veneto",45.43490485,12.33845213,"Varicella","VAR","36 months","94.22",2022
+5,"Veneto",45.43490485,12.33845213,"Meningococco C coniugato","Men C","36 months","91.66",2022
+5,"Veneto",45.43490485,12.33845213,"Pneumococco coniugato","PNC","36 months","93.98",2022
+5,"Veneto",45.43490485,12.33845213,"Epatite A","EP A","36 months","13.52",2022
+5,"Veneto",45.43490485,12.33845213,"Rotavirus","ROTA","36 months",NA,2022
+5,"Veneto",45.43490485,12.33845213,"Meningococco B","Men B","36 months","91.6",2022
+5,"Veneto",45.43490485,12.33845213,"Meningococco ACYW coniugato","Men ACYW","36 months","90.73",2022
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Polio","POL","36 months","95.66",2022
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Difterite","DIF","36 months","95.66",2022
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Tetano","TET","36 months","95.68",2022
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Pertosse","PER","36 months","95.66",2022
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Epatite B","EP B","36 months","95.5",2022
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Hib","HIB","36 months","95.54",2022
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Morbillo","MOR","36 months","95.05",2022
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Parotite","PAR","36 months","95.04",2022
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Rosolia","ROS","36 months","95.05",2022
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Varicella","VAR","36 months","94.07",2022
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Meningococco C coniugato","Men C","36 months","88.03",2022
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Pneumococco coniugato","PNC","36 months","91.46",2022
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Epatite A","EP A","36 months","3.81",2022
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Rotavirus","ROTA","36 months",NA,2022
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Meningococco B","Men B","36 months","89.87",2022
+6,"Friuli-Venezia Giulia",45.6494354,13.76813649,"Meningococco ACYW coniugato","Men ACYW","36 months","88.03",2022
+7,"Liguria",44.41149315,8.9326992,"Polio","POL","36 months","91.82",2022
+7,"Liguria",44.41149315,8.9326992,"Difterite","DIF","36 months","91.84",2022
+7,"Liguria",44.41149315,8.9326992,"Tetano","TET","36 months","91.84",2022
+7,"Liguria",44.41149315,8.9326992,"Pertosse","PER","36 months","91.84",2022
+7,"Liguria",44.41149315,8.9326992,"Epatite B","EP B","36 months","91.79",2022
+7,"Liguria",44.41149315,8.9326992,"Hib","HIB","36 months","91.62",2022
+7,"Liguria",44.41149315,8.9326992,"Morbillo","MOR","36 months","91.32",2022
+7,"Liguria",44.41149315,8.9326992,"Parotite","PAR","36 months","91.22",2022
+7,"Liguria",44.41149315,8.9326992,"Rosolia","ROS","36 months","91.31",2022
+7,"Liguria",44.41149315,8.9326992,"Varicella","VAR","36 months","89.91",2022
+7,"Liguria",44.41149315,8.9326992,"Meningococco C coniugato","Men C","36 months","82.86",2022
+7,"Liguria",44.41149315,8.9326992,"Pneumococco coniugato","PNC","36 months","89.15",2022
+7,"Liguria",44.41149315,8.9326992,"Epatite A","EP A","36 months","2.38",2022
+7,"Liguria",44.41149315,8.9326992,"Rotavirus","ROTA","36 months","79.46",2022
+7,"Liguria",44.41149315,8.9326992,"Meningococco B","Men B","36 months","79.46",2022
+7,"Liguria",44.41149315,8.9326992,"Meningococco ACYW coniugato","Men ACYW","36 months","18.16",2022
+8,"Emilia-Romagna",44.49436681,11.3417208,"Polio","POL","36 months","96.6",2022
+8,"Emilia-Romagna",44.49436681,11.3417208,"Difterite","DIF","36 months","96.58",2022
+8,"Emilia-Romagna",44.49436681,11.3417208,"Tetano","TET","36 months","96.59",2022
+8,"Emilia-Romagna",44.49436681,11.3417208,"Pertosse","PER","36 months","96.58",2022
+8,"Emilia-Romagna",44.49436681,11.3417208,"Epatite B","EP B","36 months","96.55",2022
+8,"Emilia-Romagna",44.49436681,11.3417208,"Hib","HIB","36 months","96.32",2022
+8,"Emilia-Romagna",44.49436681,11.3417208,"Morbillo","MOR","36 months","96.2",2022
+8,"Emilia-Romagna",44.49436681,11.3417208,"Parotite","PAR","36 months","96.14",2022
+8,"Emilia-Romagna",44.49436681,11.3417208,"Rosolia","ROS","36 months","96.19",2022
+8,"Emilia-Romagna",44.49436681,11.3417208,"Varicella","VAR","36 months","95.04",2022
+8,"Emilia-Romagna",44.49436681,11.3417208,"Meningococco C coniugato","Men C","36 months","92.79",2022
+8,"Emilia-Romagna",44.49436681,11.3417208,"Pneumococco coniugato","PNC","36 months","93.72",2022
+8,"Emilia-Romagna",44.49436681,11.3417208,"Epatite A","EP A","36 months","12.19",2022
+8,"Emilia-Romagna",44.49436681,11.3417208,"Rotavirus","ROTA","36 months",NA,2022
+8,"Emilia-Romagna",44.49436681,11.3417208,"Meningococco B","Men B","36 months","88.93",2022
+8,"Emilia-Romagna",44.49436681,11.3417208,"Meningococco ACYW coniugato","Men ACYW","36 months","92.26",2022
+9,"Toscana",43.76923077,11.25588885,"Polio","POL","36 months","95.46",2022
+9,"Toscana",43.76923077,11.25588885,"Difterite","DIF","36 months","95.48",2022
+9,"Toscana",43.76923077,11.25588885,"Tetano","TET","36 months","95.5",2022
+9,"Toscana",43.76923077,11.25588885,"Pertosse","PER","36 months","95.48",2022
+9,"Toscana",43.76923077,11.25588885,"Epatite B","EP B","36 months","95.33",2022
+9,"Toscana",43.76923077,11.25588885,"Hib","HIB","36 months","95.72",2022
+9,"Toscana",43.76923077,11.25588885,"Morbillo","MOR","36 months","95.19",2022
+9,"Toscana",43.76923077,11.25588885,"Parotite","PAR","36 months","95.13",2022
+9,"Toscana",43.76923077,11.25588885,"Rosolia","ROS","36 months","95.19",2022
+9,"Toscana",43.76923077,11.25588885,"Varicella","VAR","36 months","94.29",2022
+9,"Toscana",43.76923077,11.25588885,"Meningococco C coniugato","Men C","36 months","90.4",2022
+9,"Toscana",43.76923077,11.25588885,"Pneumococco coniugato","PNC","36 months","92.55",2022
+9,"Toscana",43.76923077,11.25588885,"Epatite A","EP A","36 months","0.63",2022
+9,"Toscana",43.76923077,11.25588885,"Rotavirus","ROTA","36 months",NA,2022
+9,"Toscana",43.76923077,11.25588885,"Meningococco B","Men B","36 months","89.24",2022
+9,"Toscana",43.76923077,11.25588885,"Meningococco ACYW coniugato","Men ACYW","36 months","3.56",2022
+10,"Um bria",43.10675841,12.38824698,"Polio","POL","36 months","97.19",2022
+10,"Um bria",43.10675841,12.38824698,"Difterite","DIF","36 months","97.19",2022
+10,"Um bria",43.10675841,12.38824698,"Tetano","TET","36 months","97.19",2022
+10,"Um bria",43.10675841,12.38824698,"Pertosse","PER","36 months","97.19",2022
+10,"Um bria",43.10675841,12.38824698,"Epatite B","EP B","36 months","97.13",2022
+10,"Um bria",43.10675841,12.38824698,"Hib","HIB","36 months","97",2022
+10,"Um bria",43.10675841,12.38824698,"Morbillo","MOR","36 months","97",2022
+10,"Um bria",43.10675841,12.38824698,"Parotite","PAR","36 months","96.9",2022
+10,"Um bria",43.10675841,12.38824698,"Rosolia","ROS","36 months","96.95",2022
+10,"Um bria",43.10675841,12.38824698,"Varicella","VAR","36 months","95.17",2022
+10,"Um bria",43.10675841,12.38824698,"Meningococco C coniugato","Men C","36 months","90.18",2022
+10,"Um bria",43.10675841,12.38824698,"Pneumococco coniugato","PNC","36 months","94.79",2022
+10,"Um bria",43.10675841,12.38824698,"Epatite A","EP A","36 months","0.2",2022
+10,"Um bria",43.10675841,12.38824698,"Rotavirus","ROTA","36 months",NA,2022
+10,"Um bria",43.10675841,12.38824698,"Meningococco B","Men B","36 months","70.21",2022
+10,"Um bria",43.10675841,12.38824698,"Meningococco ACYW coniugato","Men ACYW","36 months","2.16",2022
+11,"Marche",43.61675973,13.5188753,"Polio","POL","36 months","95.32",2022
+11,"Marche",43.61675973,13.5188753,"Difterite","DIF","36 months","95.16",2022
+11,"Marche",43.61675973,13.5188753,"Tetano","TET","36 months","95.17",2022
+11,"Marche",43.61675973,13.5188753,"Pertosse","PER","36 months","95.16",2022
+11,"Marche",43.61675973,13.5188753,"Epatite B","EP B","36 months","95.17",2022
+11,"Marche",43.61675973,13.5188753,"Hib","HIB","36 months","95.12",2022
+11,"Marche",43.61675973,13.5188753,"Morbillo","MOR","36 months","94.62",2022
+11,"Marche",43.61675973,13.5188753,"Parotite","PAR","36 months","94.61",2022
+11,"Marche",43.61675973,13.5188753,"Rosolia","ROS","36 months","94.62",2022
+11,"Marche",43.61675973,13.5188753,"Varicella","VAR","36 months","92.96",2022
+11,"Marche",43.61675973,13.5188753,"Meningococco C coniugato","Men C","36 months","85.98",2022
+11,"Marche",43.61675973,13.5188753,"Pneumococco coniugato","PNC","36 months","91.61",2022
+11,"Marche",43.61675973,13.5188753,"Epatite A","EP A","36 months","0.76",2022
+11,"Marche",43.61675973,13.5188753,"Rotavirus","ROTA","36 months","78.72",2022
+11,"Marche",43.61675973,13.5188753,"Meningococco B","Men B","36 months","78.72",2022
+11,"Marche",43.61675973,13.5188753,"Meningococco ACYW coniugato","Men ACYW","36 months","85.39",2022
+12,"Lazio",41.89277044,12.48366722,"Polio","POL","36 months","95.2",2022
+12,"Lazio",41.89277044,12.48366722,"Difterite","DIF","36 months","95.2",2022
+12,"Lazio",41.89277044,12.48366722,"Tetano","TET","36 months","95.2",2022
+12,"Lazio",41.89277044,12.48366722,"Pertosse","PER","36 months","95.15",2022
+12,"Lazio",41.89277044,12.48366722,"Epatite B","EP B","36 months","95.18",2022
+12,"Lazio",41.89277044,12.48366722,"Hib","HIB","36 months","95.06",2022
+12,"Lazio",41.89277044,12.48366722,"Morbillo","MOR","36 months","95.77",2022
+12,"Lazio",41.89277044,12.48366722,"Parotite","PAR","36 months","95.74",2022
+12,"Lazio",41.89277044,12.48366722,"Rosolia","ROS","36 months","95.76",2022
+12,"Lazio",41.89277044,12.48366722,"Varicella","VAR","36 months","94.44",2022
+12,"Lazio",41.89277044,12.48366722,"Meningococco C coniugato","Men C","36 months","88.15",2022
+12,"Lazio",41.89277044,12.48366722,"Pneumococco coniugato","PNC","36 months","90.77",2022
+12,"Lazio",41.89277044,12.48366722,"Epatite A","EP A","36 months","0.28",2022
+12,"Lazio",41.89277044,12.48366722,"Rotavirus","ROTA","36 months",NA,2022
+12,"Lazio",41.89277044,12.48366722,"Meningococco B","Men B","36 months","75.94",2022
+12,"Lazio",41.89277044,12.48366722,"Meningococco ACYW coniugato","Men ACYW","36 months","87.59",2022
+13,"Abruzzo",42.35122196,13.39843823,"Polio","POL","36 months","95.79",2022
+13,"Abruzzo",42.35122196,13.39843823,"Difterite","DIF","36 months","95.79",2022
+13,"Abruzzo",42.35122196,13.39843823,"Tetano","TET","36 months","95.79",2022
+13,"Abruzzo",42.35122196,13.39843823,"Pertosse","PER","36 months","95.79",2022
+13,"Abruzzo",42.35122196,13.39843823,"Epatite B","EP B","36 months","95.79",2022
+13,"Abruzzo",42.35122196,13.39843823,"Hib","HIB","36 months","95.93",2022
+13,"Abruzzo",42.35122196,13.39843823,"Morbillo","MOR","36 months","95.26",2022
+13,"Abruzzo",42.35122196,13.39843823,"Parotite","PAR","36 months","95.24",2022
+13,"Abruzzo",42.35122196,13.39843823,"Rosolia","ROS","36 months","95.25",2022
+13,"Abruzzo",42.35122196,13.39843823,"Varicella","VAR","36 months","90.21",2022
+13,"Abruzzo",42.35122196,13.39843823,"Meningococco C coniugato","Men C","36 months","76.46",2022
+13,"Abruzzo",42.35122196,13.39843823,"Pneumococco coniugato","PNC","36 months","92.18",2022
+13,"Abruzzo",42.35122196,13.39843823,"Epatite A","EP A","36 months","0.31",2022
+13,"Abruzzo",42.35122196,13.39843823,"Rotavirus","ROTA","36 months",NA,2022
+13,"Abruzzo",42.35122196,13.39843823,"Meningococco B","Men B","36 months","74.89",2022
+13,"Abruzzo",42.35122196,13.39843823,"Meningococco ACYW coniugato","Men ACYW","36 months","45.88",2022
+14,"Molise",41.55774754,14.65916051,"Polio","POL","36 months","98.69",2022
+14,"Molise",41.55774754,14.65916051,"Difterite","DIF","36 months","98.69",2022
+14,"Molise",41.55774754,14.65916051,"Tetano","TET","36 months","98.69",2022
+14,"Molise",41.55774754,14.65916051,"Pertosse","PER","36 months","98.69",2022
+14,"Molise",41.55774754,14.65916051,"Epatite B","EP B","36 months","98.69",2022
+14,"Molise",41.55774754,14.65916051,"Hib","HIB","36 months","98.69",2022
+14,"Molise",41.55774754,14.65916051,"Morbillo","MOR","36 months","98.22",2022
+14,"Molise",41.55774754,14.65916051,"Parotite","PAR","36 months","98.22",2022
+14,"Molise",41.55774754,14.65916051,"Rosolia","ROS","36 months","98.22",2022
+14,"Molise",41.55774754,14.65916051,"Varicella","VAR","36 months","92.14",2022
+14,"Molise",41.55774754,14.65916051,"Meningococco C coniugato","Men C","36 months","81.6",2022
+14,"Molise",41.55774754,14.65916051,"Pneumococco coniugato","PNC","36 months","98.43",2022
+14,"Molise",41.55774754,14.65916051,"Epatite A","EP A","36 months","0.47",2022
+14,"Molise",41.55774754,14.65916051,"Rotavirus","ROTA","36 months",NA,2022
+14,"Molise",41.55774754,14.65916051,"Meningococco B","Men B","36 months","80.03",2022
+14,"Molise",41.55774754,14.65916051,"Meningococco ACYW coniugato","Men ACYW","36 months","80.97",2022
+15,"Campania",40.83956555,14.25084984,"Polio","POL","36 months","94.73",2022
+15,"Campania",40.83956555,14.25084984,"Difterite","DIF","36 months","94.73",2022
+15,"Campania",40.83956555,14.25084984,"Tetano","TET","36 months","94.73",2022
+15,"Campania",40.83956555,14.25084984,"Pertosse","PER","36 months","94.73",2022
+15,"Campania",40.83956555,14.25084984,"Epatite B","EP B","36 months","94.71",2022
+15,"Campania",40.83956555,14.25084984,"Hib","HIB","36 months","94.69",2022
+15,"Campania",40.83956555,14.25084984,"Morbillo","MOR","36 months","94.83",2022
+15,"Campania",40.83956555,14.25084984,"Parotite","PAR","36 months","94.82",2022
+15,"Campania",40.83956555,14.25084984,"Rosolia","ROS","36 months","94.84",2022
+15,"Campania",40.83956555,14.25084984,"Varicella","VAR","36 months","92.75",2022
+15,"Campania",40.83956555,14.25084984,"Meningococco C coniugato","Men C","36 months","71.92",2022
+15,"Campania",40.83956555,14.25084984,"Pneumococco coniugato","PNC","36 months","89.13",2022
+15,"Campania",40.83956555,14.25084984,"Epatite A","EP A","36 months","0.09",2022
+15,"Campania",40.83956555,14.25084984,"Rotavirus","ROTA","36 months","58.7",2022
+15,"Campania",40.83956555,14.25084984,"Meningococco B","Men B","36 months","65.23",2022
+15,"Campania",40.83956555,14.25084984,"Meningococco ACYW coniugato","Men ACYW","36 months","71.18",2022
+16,"Puglia",41.12559576,16.86736689,"Polio","POL","36 months","94.6",2022
+16,"Puglia",41.12559576,16.86736689,"Difterite","DIF","36 months","94.6",2022
+16,"Puglia",41.12559576,16.86736689,"Tetano","TET","36 months","94.6",2022
+16,"Puglia",41.12559576,16.86736689,"Pertosse","PER","36 months","94.6",2022
+16,"Puglia",41.12559576,16.86736689,"Epatite B","EP B","36 months","94.6",2022
+16,"Puglia",41.12559576,16.86736689,"Hib","HIB","36 months","94.54",2022
+16,"Puglia",41.12559576,16.86736689,"Morbillo","MOR","36 months","94.2",2022
+16,"Puglia",41.12559576,16.86736689,"Parotite","PAR","36 months","94.17",2022
+16,"Puglia",41.12559576,16.86736689,"Rosolia","ROS","36 months","94.19",2022
+16,"Puglia",41.12559576,16.86736689,"Varicella","VAR","36 months","93.71",2022
+16,"Puglia",41.12559576,16.86736689,"Meningococco C coniugato","Men C","36 months","87.33",2022
+16,"Puglia",41.12559576,16.86736689,"Pneumococco coniugato","PNC","36 months","92.16",2022
+16,"Puglia",41.12559576,16.86736689,"Epatite A","EP A","36 months","78.61",2022
+16,"Puglia",41.12559576,16.86736689,"Rotavirus","ROTA","36 months","79.07",2022
+16,"Puglia",41.12559576,16.86736689,"Meningococco B","Men B","36 months","79.07",2022
+16,"Puglia",41.12559576,16.86736689,"Meningococco ACYW coniugato","Men ACYW","36 months","86.77",2022
+17,"Basilicata",40.63947052,15.80514834,"Polio","POL","36 months","96.01",2022
+17,"Basilicata",40.63947052,15.80514834,"Difterite","DIF","36 months","96.01",2022
+17,"Basilicata",40.63947052,15.80514834,"Tetano","TET","36 months","96.01",2022
+17,"Basilicata",40.63947052,15.80514834,"Pertosse","PER","36 months","96.01",2022
+17,"Basilicata",40.63947052,15.80514834,"Epatite B","EP B","36 months","96.01",2022
+17,"Basilicata",40.63947052,15.80514834,"Hib","HIB","36 months","96.01",2022
+17,"Basilicata",40.63947052,15.80514834,"Morbillo","MOR","36 months","95.53",2022
+17,"Basilicata",40.63947052,15.80514834,"Parotite","PAR","36 months","95.53",2022
+17,"Basilicata",40.63947052,15.80514834,"Rosolia","ROS","36 months","95.53",2022
+17,"Basilicata",40.63947052,15.80514834,"Varicella","VAR","36 months","94.54",2022
+17,"Basilicata",40.63947052,15.80514834,"Meningococco C coniugato","Men C","36 months","91.91",2022
+17,"Basilicata",40.63947052,15.80514834,"Pneumococco coniugato","PNC","36 months","93.83",2022
+17,"Basilicata",40.63947052,15.80514834,"Epatite A","EP A","36 months","0.28",2022
+17,"Basilicata",40.63947052,15.80514834,"Rotavirus","ROTA","36 months",NA,2022
+17,"Basilicata",40.63947052,15.80514834,"Meningococco B","Men B","36 months","80.2",2022
+17,"Basilicata",40.63947052,15.80514834,"Meningococco ACYW coniugato","Men ACYW","36 months","91.57",2022
+18,"Calabria",38.90597598,16.59440194,"Polio","POL","36 months","95.05",2022
+18,"Calabria",38.90597598,16.59440194,"Difterite","DIF","36 months","95.05",2022
+18,"Calabria",38.90597598,16.59440194,"Tetano","TET","36 months","95.05",2022
+18,"Calabria",38.90597598,16.59440194,"Pertosse","PER","36 months","95.05",2022
+18,"Calabria",38.90597598,16.59440194,"Epatite B","EP B","36 months","95.05",2022
+18,"Calabria",38.90597598,16.59440194,"Hib","HIB","36 months","95.05",2022
+18,"Calabria",38.90597598,16.59440194,"Morbillo","MOR","36 months","91.38",2022
+18,"Calabria",38.90597598,16.59440194,"Parotite","PAR","36 months","91.38",2022
+18,"Calabria",38.90597598,16.59440194,"Rosolia","ROS","36 months","91.38",2022
+18,"Calabria",38.90597598,16.59440194,"Varicella","VAR","36 months","91.38",2022
+18,"Calabria",38.90597598,16.59440194,"Meningococco C coniugato","Men C","36 months","89.41",2022
+18,"Calabria",38.90597598,16.59440194,"Pneumococco coniugato","PNC","36 months","94",2022
+18,"Calabria",38.90597598,16.59440194,"Epatite A","EP A","36 months","0.05",2022
+18,"Calabria",38.90597598,16.59440194,"Rotavirus","ROTA","36 months","0",2022
+18,"Calabria",38.90597598,16.59440194,"Meningococco B","Men B","36 months","87.66",2022
+18,"Calabria",38.90597598,16.59440194,"Meningococco ACYW coniugato","Men ACYW","36 months","89.41",2022
+19,"Sicilia",38.11569725,13.3623566999999,"Polio","POL","36 months","91.83",2022
+19,"Sicilia",38.11569725,13.3623566999999,"Difterite","DIF","36 months","91.8",2022
+19,"Sicilia",38.11569725,13.3623566999999,"Tetano","TET","36 months","91.81",2022
+19,"Sicilia",38.11569725,13.3623566999999,"Pertosse","PER","36 months","91.8",2022
+19,"Sicilia",38.11569725,13.3623566999999,"Epatite B","EP B","36 months","91.89",2022
+19,"Sicilia",38.11569725,13.3623566999999,"Hib","HIB","36 months","91.75",2022
+19,"Sicilia",38.11569725,13.3623566999999,"Morbillo","MOR","36 months","93.86",2022
+19,"Sicilia",38.11569725,13.3623566999999,"Parotite","PAR","36 months","93.83",2022
+19,"Sicilia",38.11569725,13.3623566999999,"Rosolia","ROS","36 months","93.86",2022
+19,"Sicilia",38.11569725,13.3623566999999,"Varicella","VAR","36 months","93.63",2022
+19,"Sicilia",38.11569725,13.3623566999999,"Meningococco C coniugato","Men C","36 months","79.81",2022
+19,"Sicilia",38.11569725,13.3623566999999,"Pneumococco coniugato","PNC","36 months","87.94",2022
+19,"Sicilia",38.11569725,13.3623566999999,"Epatite A","EP A","36 months","0.07",2022
+19,"Sicilia",38.11569725,13.3623566999999,"Rotavirus","ROTA","36 months",NA,2022
+19,"Sicilia",38.11569725,13.3623566999999,"Meningococco B","Men B","36 months","70.87",2022
+19,"Sicilia",38.11569725,13.3623566999999,"Meningococco ACYW coniugato","Men ACYW","36 months","79.66",2022
+20,"Sardegna",39.21531192,9.110616306,"Polio","POL","36 months","92.64",2022
+20,"Sardegna",39.21531192,9.110616306,"Difterite","DIF","36 months","92.65",2022
+20,"Sardegna",39.21531192,9.110616306,"Tetano","TET","36 months","92.65",2022
+20,"Sardegna",39.21531192,9.110616306,"Pertosse","PER","36 months","92.65",2022
+20,"Sardegna",39.21531192,9.110616306,"Epatite B","EP B","36 months","92.53",2022
+20,"Sardegna",39.21531192,9.110616306,"Hib","HIB","36 months","92.43",2022
+20,"Sardegna",39.21531192,9.110616306,"Morbillo","MOR","36 months","93.36",2022
+20,"Sardegna",39.21531192,9.110616306,"Parotite","PAR","36 months","93.35",2022
+20,"Sardegna",39.21531192,9.110616306,"Rosolia","ROS","36 months","93.36",2022
+20,"Sardegna",39.21531192,9.110616306,"Varicella","VAR","36 months","92.51",2022
+20,"Sardegna",39.21531192,9.110616306,"Meningococco C coniugato","Men C","36 months","88.56",2022
+20,"Sardegna",39.21531192,9.110616306,"Pneumococco coniugato","PNC","36 months","89.79",2022
+20,"Sardegna",39.21531192,9.110616306,"Epatite A","EP A","36 months","0.21",2022
+20,"Sardegna",39.21531192,9.110616306,"Rotavirus","ROTA","36 months","80.62",2022
+20,"Sardegna",39.21531192,9.110616306,"Meningococco B","Men B","36 months","80.62",2022
+20,"Sardegna",39.21531192,9.110616306,"Meningococco ACYW coniugato","Men ACYW","36 months","87.62",2022
+NA,"Italia",41.1698638,7.4272648,"Polio","POL","36 months","94.98",2022
+NA,"Italia",41.1698638,7.4272648,"Difterite","DIF","36 months","94.97",2022
+NA,"Italia",41.1698638,7.4272648,"Tetano","TET","36 months","94.98",2022
+NA,"Italia",41.1698638,7.4272648,"Pertosse","PER","36 months","94.97",2022
+NA,"Italia",41.1698638,7.4272648,"Epatite B","EP B","36 months","94.93",2022
+NA,"Italia",41.1698638,7.4272648,"Hib","HIB","36 months","94.85",2022
+NA,"Italia",41.1698638,7.4272648,"Morbillo","MOR","36 months","94.98",2022
+NA,"Italia",41.1698638,7.4272648,"Parotite","PAR","36 months","94.93",2022
+NA,"Italia",41.1698638,7.4272648,"Rosolia","ROS","36 months","94.96",2022
+NA,"Italia",41.1698638,7.4272648,"Varicella","VAR","36 months","93.8",2022
+NA,"Italia",41.1698638,7.4272648,"Meningococco C coniugato","Men C","36 months","87",2022
+NA,"Italia",41.1698638,7.4272648,"Pneumococco coniugato","PNC","36 months","91.75",2022
+NA,"Italia",41.1698638,7.4272648,"Epatite A","EP A","36 months","7.92",2022
+NA,"Italia",41.1698638,7.4272648,"Rotavirus","ROTA","36 months","16.75",2022
+NA,"Italia",41.1698638,7.4272648,"Meningococco B","Men B","36 months","81.79",2022
+NA,"Italia",41.1698638,7.4272648,"Meningococco ACYW coniugato","Men ACYW","36 months","55.57",2022
